@@ -205,7 +205,7 @@ const artsShowcases = {
 
 Imagine we also have a `studentSorter` object that includes a `showcaseAssign()`
 method. That method takes the name of a student as its argument and returns the
-name of the showcase the student should be assigned to. Note that we have not
+name of the showcase the student should be assigned to. Note that we have notgit@github.com:NadifoIsmail/phase-1-using-array-reduce.git
 coded out the `showcaseAssign()` method — the details of how it would work are
 not important for our purposes. What's important to remember is that the method
 takes the name of a student as an argument and returns one of the five showcases:
